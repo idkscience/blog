@@ -1,2 +1,2 @@
 # blog
-MVP do blog 
+Seja bem vindo!
