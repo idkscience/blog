@@ -1,0 +1,2 @@
+# blog
+MVP do blog 
